@@ -3,7 +3,7 @@
 void Show(float v)
 {
 	float n = v;
-	printf("hello.");
+	printf("hello. 1");
 }
 
 void main()
