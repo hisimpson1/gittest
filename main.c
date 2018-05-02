@@ -5,6 +5,7 @@ void Show(float v)
 	float n = v;
 	printf("hello. 1");
 	printf("hello. 2");	
+	printf("hello. 3");
 }
 
 void main()
