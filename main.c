@@ -15,4 +15,9 @@ void main()
 	Show(0);
 } 
 
+void showChild()
+{
+	//aaa
+}
+
 //This is main
