@@ -22,4 +22,10 @@ void showChild()
 	//789
 }
 
+void showChild2()
+{
+	printf("aaaa");
+	printf("bbb");
+	printf("ccc");
+}
 //This is main
