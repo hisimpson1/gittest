@@ -3,11 +3,11 @@
 void Show(float v)
 {
 	float n = v;
-	printf("hello. 1");
-	printf("hello. 2");	
-	printf("hello. 3");
-	printf("hello. 4");
-	printf("hello. 5");
+	printf("main. 1");
+	printf("main. 2");	
+	printf("main. 3");
+	printf("main. 4");
+	printf("main. 5");
 }
 
 void main()
