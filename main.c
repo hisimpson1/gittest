@@ -28,4 +28,6 @@ void showChild2()
 	printf("bbb");
 	printf("ccc");
 }
+//Kraken Test
+//Kraken modify
 //This is main
