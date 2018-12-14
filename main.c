@@ -2,5 +2,5 @@
 
 void Show(float v)
 {
-    mydev();
+    my my mydev();
 }
