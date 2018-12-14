@@ -1,4 +1,4 @@
 void sub()
 {
-    remove master();
+    edit master();
 }
