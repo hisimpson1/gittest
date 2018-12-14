@@ -1,4 +1,5 @@
 void sub()
 {
 	hello();
+    master();
 }
